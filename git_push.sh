@@ -18,7 +18,7 @@ if [ "$git_repo_id" = "" ]; then
 fi
 
 if [ "$release_note" = "" ]; then
-    release_note="Gitea API Client for 1.15.3 Build 1"
+    release_note="Gitea API Client for 1.15.3 Build 2"
     echo "[INFO] No command line input provided. Set \$release_note to $release_note"
 fi
 
